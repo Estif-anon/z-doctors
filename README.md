@@ -19,9 +19,11 @@ Built with **Flutter & Dart**, it offers a clean UI, local storage, and a focus 
 - Local and push notifications
 - Local storage with **SQLite**
 - Data kept in sync with firestore
-- Secure authentication (Firebase Auth ready)  
+- Secure authentication (Firebase Auth ready)
+- Supports subscription and trial period
 - Material Design interface with responsive layouts  
-- Multi-language support (English & Amharic)  
+- Multi-language support (English & Amharic)
+- Has an admin companion app 
 
 ---
 
@@ -52,3 +54,8 @@ Built with **Flutter & Dart**, it offers a clean UI, local storage, and a focus 
 ## 🎥 Demo Video
 
 ![App Demo](./demo/demo.mp4
+
+## 📌 Status
+
+🚧 Currently under development
+
