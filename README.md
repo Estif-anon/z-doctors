@@ -16,7 +16,9 @@ Built with **Flutter & Dart**, it offers a clean UI, local storage, and a focus 
 - Health education
 - Directory of Health institutions and professionals
 - Tools for pattern analysis and recommendation
-- Local storage with **SQLite**  
+- Local and push notifications
+- Local storage with **SQLite**
+- Data kept in sync with firestore
 - Secure authentication (Firebase Auth ready)  
 - Material Design interface with responsive layouts  
 - Multi-language support (English & Amharic)  
