@@ -53,7 +53,9 @@ Built with **Flutter & Dart**, it offers a clean UI, local storage, and a focus 
 
 ## 🎥 Demo Video
 
-![App Demo](./demo/demo.mp4
+![App Demo 1](./demo/demo_1.mp4)
+![App Demo 2](./demo/demo_2.mp4)
+
 
 ## 📌 Status
 
